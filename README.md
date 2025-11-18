@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![AURA Banner](./assets/banner.png)
+![AURA Banner](./assets/icon.svg)
 
 **An AI-powered emotional wellness companion built with modern Android technologies**
 
@@ -301,9 +301,9 @@ This is a **portfolio-quality project** showcasing expertise in UI design, backe
 
 <div align="center">
 
-| Home Screen | Journal Entry | Analytics |
-|-------------|---------------|-----------|
-| ![Home](./screenshots/home.png) | ![Journal](./screenshots/journal.png) | ![Analytics](./screenshots/analytics.png) |
+| Home Screen | Journal Entry | Analytics | Meditation |
+|-------------|---------------|-----------|-----------|
+| ![Home](./screenshots/home.png) | ![Journal](./screenshots/journal.png) | ![Analytics](./screenshots/analytics.png) |![Meditation](./screenshots/meditation.png)|
 
 </div>
 
