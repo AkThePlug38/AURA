@@ -1,4 +1,4 @@
-# AURA 🌸
+# AURA – AI-Based Emotional Wellness App 
 
 <div align="center">
 
