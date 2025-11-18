@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "508453719042",
+    "project_id": "aura-mental-wellness",
+    "storage_bucket": "aura-mental-wellness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508453719042:android:6126b21abdc381d7adeb1b",
+        "android_client_info": {
+          "package_name": "com.Rajath.aura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508453719042-oer0rn4phhb4invd004uf3u8k6fumj6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Rajath.aura",
+            "certificate_hash": "3cb3b3b6a69f6e66d6667ed17dd27f5bcb58cffc"
+          }
+        },
+        {
+          "client_id": "508453719042-e9vjo1hf7djrjffvtl4hc5ckf2r19ock.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SZE0YWRerGXN2dpFfEPHOY1cYkjSS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508453719042-e9vjo1hf7djrjffvtl4hc5ckf2r19ock.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
