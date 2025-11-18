@@ -1,0 +1,84 @@
+# ---------------------------
+# Android / Gradle
+# ---------------------------
+*.apk
+*.ap_
+*.aab
+*.aar
+*.aidl
+*.class
+*.dex
+*.log
+*.hprof
+*.so
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+gradle.properties~   # temporary backup created by IDE
+
+# NDK / CMake
+.externalNativeBuild/
+.cxx/
+
+# Keystores (never commit!)
+*.jks
+*.keystore
+
+# Firebase / Google services
+google-services.json
+GoogleService-Info.plist
+
+# ---------------------------
+# IntelliJ / Android Studio
+# ---------------------------
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Except these IDEA files if needed
+!.idea/codeStyles/
+!.idea/runConfigurations/
+
+# ---------------------------
+# Node / JS (if using React Native or tools)
+# ---------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---------------------------
+# OS files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Captures / profiling
+# ---------------------------
+captures/
+*.trace
+*.tmp
+
+# ---------------------------
+# Kotlin / Java
+# ---------------------------
+out/
+bin/
+
+# ---------------------------
+# Compose compiler artifacts
+# ---------------------------
+*.kotlin_module
+*.compose_cache/
+
+# ---------------------------
+# Misc
+# ---------------------------
+/output-metadata.json
