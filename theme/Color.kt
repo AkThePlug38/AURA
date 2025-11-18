@@ -3,10 +3,10 @@ package com.Rajath.aura.ui.theme
 import androidx.compose.ui.graphics.Color
 
 // AURA Brand Colors
-val AuraPrimary = Color(0xFF6673FF)      // Primary blue
-val AuraCyan = Color(0xFF66F0FF)         // Accent cyan
-val AuraLight = Color(0xFFE9FDFF)        // Light background
-val AuraDark = Color(0xFF11121D)         // Dark background
+val AuraPrimary = Color(0xFF6673FF) 
+val AuraCyan = Color(0xFF66F0FF) 
+val AuraLight = Color(0xFFE9FDFF)  
+val AuraDark = Color(0xFF11121D) 
 
 // Gradient background colors
 val AuraBgStart = Color(0xFF0C0F3D)
