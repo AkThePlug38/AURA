@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508453719042",
+    "project_id": "aura-mental-wellness",
+    "storage_bucket": "aura-mental-wellness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508453719042:android:6126b21abdc381d7adeb1b",
+        "android_client_info": {
+          "package_name": "com.Rajath.aura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2SZE0YWRerGXN2dpFfEPHOY1cYkjSS3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
