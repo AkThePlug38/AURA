@@ -51,7 +51,6 @@ fun AnalyticsScreen(
     onBack: () -> Unit,
     vm: JournalViewModel = viewModel()
 ) {
-    // subscribe once for this uid
     LaunchedEffect(uid) { vm.observeRecent(uid) }
     val items by vm.recentJournals.collectAsState()
 
