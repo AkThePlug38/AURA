@@ -331,8 +331,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rajath**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@RajathPatilKulkarni](https://github.com/RajathPatilKulkarni)
+- Email: rajathpatilkulkarni@icloud.com
 
 ---
 
@@ -346,8 +346,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-**Built with ❤️ using Kotlin and Jetpack Compose**
 
 ⭐ Star this repo if you find it helpful!
 
