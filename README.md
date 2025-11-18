@@ -11,8 +11,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-Latest-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-API-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-[Features](#features) • [Architecture](#architecture) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Screenshots](#screenshots)
-
 </div>
 
 ---
